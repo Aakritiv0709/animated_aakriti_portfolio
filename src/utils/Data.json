@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "name": "DV Minerals cables web app",
+      "image": "/Project-1.jpg",
+      "description": "Keep track of your cable and wire inventory with ease. Maintain a central database of available materials, including detailed specifications and stock levels. Avoid delays and shortages by proactively managing your supplies.This website is created using Html, Css, JavaScript.",
+      "link": "https://aakritiv0709.github.io/DV-Minerals/"
+    },
+    {
+      "id": 2,
+      "name": "Silon-E-Commerce web app",
+      "image": "/Project-2.jpg",
+      "description": "Discover a world of convenience, variety, and unbeatable deals at our Ecommerce Website. We pride ourselves on being your ultimate online shopping destination, offering a vast selection of products from top brands across diverse categories.",
+      "link": "https://aakritiv0709.github.io/Silon-E-Commerece-Demo/"
+    },
+    {
+      "id": 3,
+      "name": "Video Streaming Application",
+      "image": "/Project-3.jpg",
+      "description": "Successfully integrated a Rapid API into the frontend of the application. It is a clone 'YouTube' for video streaming. Designed and implemented an intuitive and user-friendly interface for users to interact with video streaming app.",
+      "link": "https://videostreamingapplication.netlify.app/"
+    },
+    {
+      "id": 4,
+      "name": "AR-CRUD operation application",
+      "image": "/Project-4.jpg",
+      "description": "This CRUD Operation Application is a software system designed to perform basic Create, Read, Update, and Delete (CRUD) operations on a dataset.",
+      "link": "https://ar-crudoperation.netlify.app/"
+    }
+  ]
+  
