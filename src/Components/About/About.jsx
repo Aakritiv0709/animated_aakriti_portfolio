@@ -31,14 +31,16 @@ const About = () => {
               />
             </h1>
             <p className="text-sm md:text-xl">
-              Greetings!, I'm a B.Tech under graduate From Gyan Ganga Institute
-              of Technology. I've done few project's as a individual in
-              fullstack, I'm adding and working on new skills and technologies
-              into my skill sets, able to create highly optimized web
-              application. I want to achieve a challenging position in software
-              Development in a result-oriented company, where I can utilize my
-              acquired skills and education towards continued growth and
-              advancement.
+              I am Aakriti Pandey, a B.Tech graduate in Computer Science from
+              Gyan Ganga Institute of Technology (Class of 2024). As a
+              passionate full-stack developer, I have independently completed
+              several projects and am actively expanding my skill set with the
+              latest technologies to build robust and optimized web
+              applications. I am seeking a challenging role in software
+              development within a dynamic, results-driven organization. My goal
+              is to leverage my technical expertise and education to contribute
+              meaningfully to innovative projects, driving both organizational
+              success and personal growth.
             </p>
             <Link to="https://www.linkedin.com/in/aakriti-pandey-076abb26b/">
               <button className="cursor-pointer border-2 shadow-gray-700 mt-4 font-semibold bg-yellow-600 hover:bg-yellow-700 text-black py-2 px-3 rounded border-gray shadow-lg">

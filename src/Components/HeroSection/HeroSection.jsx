@@ -43,7 +43,7 @@ const HeroSection = () => {
             className="text-4xl md:text-7xl text-white my-4 md:my-5 h-44 md:h-36"
           >
             <ReactTyped
-              strings={["I'm a FullStack Developer"]}
+              strings={["I'm a Frontend Developer"]}
               typeSpeed={150}
               backSpeed={120}
               loop
@@ -74,7 +74,7 @@ const HeroSection = () => {
           initial="initial"
           animate="animate"
         >
-          FullStack Developer
+          Frontend Developer
         </motion.div>
       </section>
     </>
