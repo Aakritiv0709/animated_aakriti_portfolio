@@ -34,7 +34,7 @@ const Contact = () => {
             <div className="mb-5">
               <h2 className="md:text-2xl text-xl mb-1"> address</h2>
               <p className="md:text-lg text-sm mb-1">
-                Kanchan vihar colony jabalpur, madhya pradesh
+                Vijay nagar, jabalpur, madhya pradesh
               </p>
             </div>
             <div className="mb-5">

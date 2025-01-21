@@ -5,7 +5,7 @@ const Services = () => {
   const isInView = useInView(ref);
   return (
     <section id="services" className="h-screen">
-      <div className="h-screen w-10/12 md:w-10/12 overflow-hidden my-3 m-auto flex md:flex-row items-center justify-center flex-col md:justify-between ">
+      <div className="h-full w-10/12 md:w-10/12 overflow-hidden my-3 m-auto flex md:flex-row items-center justify-center flex-col md:justify-between ">
         <div className="md:w-5/12 w-full">
           <p className="text-xl my-3 md:block hidden">Technical Skills</p>
           <motion.div
